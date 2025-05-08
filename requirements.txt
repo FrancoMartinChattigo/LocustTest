@@ -1,0 +1,8 @@
+locust
+charset_normalizer
+pytest==6.2.2
+python-dotenv
+
+
+-e git+https://${CREDENTIAL_TOKEN}@github.com/chattigodev/commons-qa-back.git#egg=commons-qa-back
+-e git+https://${CREDENTIAL_TOKEN}@github.com/chattigodev/commons-qa-web.git#egg=commons-qa-web
