@@ -1,9 +1,19 @@
 {
   "support-bugs": [
     {
-      "type_user": "agente_1",
+      "type_user": "agente_0",
       "login": "auto.agente_load_1@support-bugs.com",
-      "pass": "Admin.1234",
+      "pass": "Admin.1234.",
+      "id_usuario": "6697",
+      "id_campana": "3611",
+      "DID": "56920241579",
+      "nombre_campana": "Pruebas QA Parent",
+      "HSM": "chattigo_sinhead"
+    },
+    {
+      "type_user": "agente_1",
+      "login": "auto.agente_load_2@support-bugs.com",
+      "pass": "Admin.1234.",
       "id_usuario": "6697",
       "id_campana": "3611",
       "DID": "56920241579",
